@@ -5,3 +5,6 @@ Alcolirikoz Tribute Page is a tribute page bluit as a part of a freeCodeCamp pro
 
 It was built from HTML5 and CSS native.
 
+Deploy URLs:
+https://sad-sad-094.github.io/Alcolirikoz-Tribute-Page_FCC/
+https://codepen.io/sad-sad-094/full/NWpGovB
